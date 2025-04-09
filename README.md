@@ -10,9 +10,7 @@ python3 chesspy.py
 
 ### Dla Windows
 
-Zainstaluj Python 3
-
-pip install 
+Zainstaluj Python 3 https://python.org/downloads
 
 pip install windows-curses
 
