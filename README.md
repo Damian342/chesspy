@@ -1,13 +1,13 @@
-#Terminalowe szachy
-##Instalacja
-###Dla dystrybucji opartych na Debianie
+# Terminalowe szachy
+## Instalacja
+### Dla dystrybucji opartych na Debianie
 
 sudo apt install python3
 pip install chess
 
 python3 chesspy.py
 
-###Dla Windows
+### Dla Windows
 
 Zainstaluj Python 3
 pip install 
