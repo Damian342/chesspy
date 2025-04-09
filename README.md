@@ -1,4 +1,4 @@
-# Terminalowe szachy
+# szachy w Python 3
 ## Instalacja
 ### Dla dystrybucji opartych na Debianie
 
